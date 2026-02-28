@@ -3,3 +3,7 @@
 xcuserdata/
 *.xcuserstate
 
+
+# Xcode user state
+xcuserdata/
+*.xcuserstate
